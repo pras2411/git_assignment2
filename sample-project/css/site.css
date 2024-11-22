@@ -6,7 +6,8 @@
             margin: 0;
         }
         @font-face{
-            font-family: "Calibri  UI";
+            font-family: "Calibri UI";
+main
             src: url('../fonts/segoeuil.ttf');
         }
         .main-container {
